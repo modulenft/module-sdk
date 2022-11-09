@@ -1,10 +1,10 @@
 <div>
-  <p align="">
+  <p align="center">
     <a href="https://modulenft.xyz" target="_blank" rel="nofollow">
       <img src="https://files.readme.io/98678b9-PFP.png" width="200" />
     </a>
   </p>
-  <div align="" class="badge-container">
+  <div align="center" class="badge-container">
     <a href="https://discord.gg/module"
       ><img
         src="https://img.shields.io/discord/948346835423068250?color=5865F2&logo=discord&logoColor=white"
@@ -22,10 +22,10 @@
     /></a>
     <a href="https://github.com/modulenft/module-sdk/actions"</a>
   </div>
-  <h1 align="">
+  <h1 align="center">
     <b>Module TypeScript SDK</b>
   </h1>
-  <p align="">
+  <p align="center">
 The Module SDK is a TypeScript library that exposes powerful methods to quickly and easily get all your Web3 data. Powered by Modules APIs, Module SDK exposes methods for each and every endpoint that Module provides.
 </br></br>
 Quickly access information about NFT collections, token holders, collection statistics and much much more!
