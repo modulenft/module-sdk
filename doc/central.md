@@ -1,4 +1,4 @@
-## NFT Methods
+## Central Methods
 
 Usage
 ```js
