@@ -1,7 +1,6 @@
 import internal from '../internal/nft-internal';
 import { ModuleConfig } from '../types/core';
 import {
-  BatchUserTradingStatistics,
   Collection,
   CollectionFloor,
   CollectionOwnerSpread,
@@ -17,7 +16,6 @@ import {
   UserTradingStatistics
 } from '../types/datasets';
 import {
-  GetBatchUserTradingStats,
   GetCollectionFloor,
   GetCollectionInfo,
   GetCollectionIntersection,
