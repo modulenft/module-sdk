@@ -250,20 +250,6 @@ export class NFT {
   };
 
   /**
-   * Get batch NFT trading stats for users
-   *
-   * @link See more https://module.readme.io/reference/retrieve-user-trading-stats-beta
-   * @param {string[]=} [params.addresses] - Array of addresses.
-   */
-  public getBatchUserTradingStats = async (
-    params: GetBatchUserTradingStats
-  ): Promise<BatchUserTradingStatistics[]> => {
-    return internal._getBatchUserTradingStats(params, {
-      apiKey: this.config?.apiKey
-    });
-  };
-
-  /**
    * Get the intersection of token owners of two different collections.
    *
    * @link See more https://module.readme.io/reference/retrieve-collection-owner-spread
