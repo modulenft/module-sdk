@@ -117,7 +117,7 @@ const client = new Module({apiKey: ''});
 const collectionInfo = await client.nft.getCollectionInfo({slug: 'azuki'});
 ```
 Getting azuki contract abi
-```
+```js
 import { Module } from 'module-sdk';
 
 const client = new Module({apiKey: ''});
