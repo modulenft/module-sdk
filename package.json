@@ -1,7 +1,7 @@
 {
-  "name": "module-sdk-js",
+  "name": "module-sdk",
   "version": "1.0.0",
-  "description": "Module JavaScript SDK",
+  "description": "Module TypeScript SDK",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
