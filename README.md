@@ -20,11 +20,7 @@
         src="https://img.shields.io/npm/dt/module-sdk.svg?maxAge=3600"
         alt="NPM downloads"
     /></a>
-    <a href="https://github.com/modulenft/module-sdk/actions"
-      ><img
-        src="https://github.com/modulenft/module-sdk/workflows/Build/badge.svg"
-        alt="Build status"
-    /></a>
+    <a href="https://github.com/modulenft/module-sdk/actions"</a>
   </div>
   <h1 align="">
     <b>Module TypeScript SDK</b>
